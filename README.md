@@ -7,3 +7,5 @@ I'm a student at Northeastern University in Boston pursuing a B.S. in Computer S
 - 👯 I’m looking to collaborate on: Backend Development in any of the languages I have projects in!
 - 📫 How to reach me: LinkedIn or email via puyanasalazar.e@northeastern.edu
 - ⚡ Fun fact: I've traveled to almost 40 countries and visited every continent except Antarctica!
+
+- ![estebanpuyanas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanpuyanas&theme=onedark&show_icons=true&hide_border=false&layout=compact)
