@@ -1,12 +1,38 @@
-# Hi there, I'm Esteban 👋
+# Hi, I'm Esteban! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=estebanpuyanas)
 
-I'm a student at Northeastern University in Boston pursuing a B.S. in Computer Science & Philosophy. 
 
-- 🔭 I’m currently working on: my personal website so I can learn `HTML`, `CSS`, and `JavaScript`. I am also continuing to work on a  `C++` project that I started for one of my classes at Northeastern this past spring. 
-- 🌱 I’m currently learning: `C++`, `HTML`, `CSS`, `JavaScript`
-- 👯 I’m looking to collaborate on: Backend Development in any of the languages I have projects in!
-- 📫 How to reach me: LinkedIn or email via puyanasalazar.e@northeastern.edu
-- ⚡ Fun fact: I've traveled to almost 40 countries and visited every continent except Antarctica!
+I'm a computer science & philosophy undergrad at Northeastern University. I am passionate about backend/fullstack, embedded development, and data engineering!
 
-- ![estebanpuyanas's Stats](https://github-readme-stats.vercel.app/api?username=estebanpuyanas&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-- ![estebanpuyanas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanpuyanas&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+## Here is some of the things I have worked with before and enjoy using:
+
+`Languages/Frameworks`:
+
+![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,cpp,qt,flask&theme=dark)
+
+-----------------------------------------------------
+`Tools`:
+
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,docker,git,neovim,aws&theme=dark)
+
+
+## Here's a few of the things i'm learning at the moment:
+
+![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,html,css&theme=dark) 
+
+in `CS4530 - Fundamentals of Software Engineering` and as I build my portfolio website!
+
+-----------------------------------------------------
+![My Skills](https://skillicons.dev/icons?i=ocaml&theme=dark) 
+
+in `CS2800 - Logic & Computation` where I'm learning about formal methods and property-baed testing!
+
+-----------------------------------------------------
+
+![My Skills](https://skillicons.dev/icons?i=arch,bash,lua&theme=dark) 
+
+Since I recently purchased a `Framework` ⚙️ laptop and I'm running Arch Linux on it, and I'm always working on my neovim configuration! 
+
+-----------------------------------------------------
+
+
+![estebanpuyanas's Stats](https://github-readme-stats.vercel.app/api?username=estebanpuyanas&theme=onedark&show_icons=true&hide_border=false&count_private=true)
