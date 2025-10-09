@@ -36,3 +36,5 @@ Since I recently purchased a `Framework` ⚙️ laptop and I'm running Arch Linu
 
 
 ![estebanpuyanas's Stats](https://github-readme-stats.vercel.app/api?username=estebanpuyanas&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+
+<img src="https://raw.githubusercontent.com/estebanpuyanas/estebanpuyanas/output/snake.svg" alt="Snake animation" />
